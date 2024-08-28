@@ -1,6 +1,6 @@
 # Keiko Protocol Simulations and Data Repository
 
-Welcome to the official GitHub repository for the Keiko Protocol, where we host simulations and data related to the functioning of the Keiko Protocol. This repository serves as a resource for developers interested in understanding the mechanics, simulations, and data analyses of the protocol.
+Welcome to the official GitHub repository for the Keiko Protocol, This repository hosts simulations and data related to the functioning of the Keiko Protocol. It serves as a resource for developers interested in understanding the mechanics, simulations, and data analyses of the protocol.
 
 ## Repository Contents
 
