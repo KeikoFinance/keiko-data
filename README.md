@@ -1,10 +1,6 @@
 # Keiko Protocol Simulations and Data Repository
 
-Welcome to the official GitHub repository for the Keiko Protocol, where we host simulations and data related to the functioning of the Keiko Protocol. This repository serves as a resource for developers, researchers, and enthusiasts interested in understanding the mechanics, simulations, and data analyses of our protocol.
-
-## About Keiko Protocol
-
-Keiko Finance is a permissionless borrowing protocol deployed on the Monad network where you can open a collateralised debt position and mint KEI against different assets of the Monad ecosystem.
+Welcome to the official GitHub repository for the Keiko Protocol, where we host simulations and data related to the functioning of the Keiko Protocol. This repository serves as a resource for developers interested in understanding the mechanics, simulations, and data analyses of the protocol.
 
 ## Repository Contents
 
